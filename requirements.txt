@@ -1,0 +1,10 @@
+streamlit
+torch
+pycryptodome
+transformers
+pillow
+pdfkit
+google-generativeai
+python-dotenv
+PyPDF2
+pyrebase4
